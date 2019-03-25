@@ -1,0 +1,7 @@
+body{
+	background-color: red;
+}
+.highlight {
+  background-color: yellow;
+  border-radius: .125em;
+}
